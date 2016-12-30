@@ -1,3 +1,5 @@
+package pkg3rdsem.assign2;
+
 // Roll Number : IMT2015047
 class LinkedList
 {
@@ -74,8 +76,18 @@ class LinkedList
         }
     }
 }
-class Linked
+
+/**
+ *This class is for linked lists
+ * @author GVKC Ritvik, IIIT - Bengaluru
+ */
+public class Linked
 {
+
+    /**
+     *This method is the main method which runs the program
+     * @param args Default arguments
+     */
     public static void main(String[] args)
     {
         LinkedList ll = new LinkedList();
